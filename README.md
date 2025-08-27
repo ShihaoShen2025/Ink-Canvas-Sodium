@@ -2,7 +2,7 @@
 
 [![LOGO](Ink%20Canvas/Resources/InkCanvas.png?raw=true "LOGO")](# "LOGO")
 
-# Ink-Canvas
+# Ink Canvas Sodium
 
   [直接下载](https://github.com/WXRIW/Ink-Canvas/releases/latest "Latest Releases") | [使用指南](https://github.com/WXRIW/Ink-Canvas/blob/master/Manual.md "说明和指南") | [常见问题](https://github.com/WXRIW/Ink-Canvas#FAQ "FAQ")
   
